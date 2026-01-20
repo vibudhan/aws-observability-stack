@@ -184,12 +184,15 @@ Password: admin
 
 ## 📸 Output Screenshots
 
-![Output 1](screenshots/output1.png)
-![Output 2](screenshots/output2.png)
-![Output 3](screenshots/output3.png)
-![Output 4](screenshots/output4.png)
-![Output 5](screenshots/output5.png)
-![Output 6](screenshots/output6.png)
+<h2>📸 Output Screenshots</h2>
+
+<img src="screenshots/output1.png" width="900" />
+<img src="screenshots/output2.png" width="900" />
+<img src="screenshots/output3.png" width="900" />
+<img src="screenshots/output4.png" width="900" />
+<img src="screenshots/output5.png" width="900" />
+<img src="screenshots/output6.png" width="900" />
+
 
 
 
