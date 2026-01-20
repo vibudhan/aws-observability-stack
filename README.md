@@ -180,12 +180,27 @@ Default credentials:
 Username: admin
 Password: admin
 
-📸 OUTPUT SCREENSHOTS
-<img width="940" height="68" alt="image" src="https://github.com/user-attachments/assets/e750a927-b939-440d-bb75-9a91ae6cb812" />
-<img width="940" height="456" alt="image" src="https://github.com/user-attachments/assets/1f9844bf-3558-46b2-91b3-ddc1105ea233" />
-<img width="940" height="436" alt="image" src="https://github.com/user-attachments/assets/890f5009-b90a-447a-856c-063e63229a2b" />
-<img width="940" height="449" alt="image" src="https://github.com/user-attachments/assets/6da3e560-8a36-47e4-acd4-8006b2e9ccdb" />
-<img width="940" height="317" alt="image" src="https://github.com/user-attachments/assets/d2582486-be4b-4b7e-92dc-2c7899d27b93" />
+## 📸 OUTPUT SCREENSHOTS
+
+### ✅ 1) Prometheus Targets (UP Status)
+![Output 1](screenshots/output1.png)
+
+### ✅ 2) Grafana Dashboard (Node Exporter Full)
+![Output 2](screenshots/output2.png)
+
+### ✅ 3) Prometheus Overview / Metrics
+![Output 3](screenshots/output3.png)
+
+### ✅ 4) Alert Rule Created (CPU Alert)
+![Output 4](screenshots/output4.png)
+
+### ✅ 5) Alert / Contact Point Setup
+![Output 5](screenshots/output5r.png)
+
+### ✅ 6) Full Monitoring Stack View
+![Output 6](screenshots/output6.png)
+
+
 
 👤 Author
 
