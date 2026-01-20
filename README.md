@@ -183,32 +183,33 @@ Password: admin
 ## 📸 Output Screenshots
 
 ### ✅ 1) Prometheus Targets (UP Status)
-![Prometheus Targets](./screenshots/output1.png)
+![Website Output](screenshots/output1.png)
+
 
 ---
 
 ### ✅ 2) Grafana Dashboard (Node Exporter Full)
-![Grafana Dashboard](./screenshots/output2.png)
+![Website Output](screenshots/output2.png)
 
 ---
 
 ### ✅ 3) Prometheus Metrics Overview
-![Prometheus Metrics](./screenshots/output3.png)
+![Website Output](screenshots/output3.png)
 
 ---
 
 ### ✅ 4) Alert Rule Created (CPU Alert)
-![Alert Rule](./screenshots/output4.png)
+![Website Output](screenshots/output3.png)
 
 ---
 
 ### ✅ 5) Alert / Contact Point Setup
-![Contact Point](./screenshots/output5.png)
+![Website Output](screenshots/output5.png)
 
 ---
 
 ### ✅ 6) Full Monitoring Stack View
-![Full Stack](./screenshots/output6.png)
+![Website Output](screenshots/output6.png)
 
 
 
