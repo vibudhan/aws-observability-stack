@@ -180,7 +180,7 @@ Default credentials:
 Username: admin
 Password: admin
 
-## 📸 OUTPUT SCREENSHOTS
+## 📸 Output Screenshots
 
 ### ✅ 1) Prometheus Targets (UP Status)
 ![Output 1](screenshots/output1.png)
@@ -195,7 +195,7 @@ Password: admin
 ![Output 4](screenshots/output4.png)
 
 ### ✅ 5) Alert / Contact Point Setup
-![Output 5](screenshots/output5r.png)
+![Output 5](screenshots/output5.png)
 
 ### ✅ 6) Full Monitoring Stack View
 ![Output 6](screenshots/output6.png)
